@@ -1,4 +1,4 @@
-# T-Mobile Valid Number Checker
+# Onvoy Spectrum Valid Number Checker
 
 ![image](https://raw.githubusercontent.com/alexrony21/Onvoy-Spectrum-Valid-Number-Checker/refs/heads/main/Onvoy_Spectrum_Valid_Number_Checker.png)
 ![image](https://raw.githubusercontent.com/alexrony21/Onvoy-Spectrum-Valid-Number-Checker/refs/heads/main/Onvoy_Spectrum_Valid_Number_Checker_result.png)
